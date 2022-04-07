@@ -1,0 +1,11 @@
+# Created by pytest automatically.
+.pytest_cache/*
+.vscode/*
+__pycache__/*
+geckodriver.log
+resultreport.zip
+resultreport*.zip
+.pytest_cache/v/cache/lastfailed
+resultreport/report.html
+cvelistscanlenv/Lib/*
+local_config.py

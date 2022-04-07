@@ -9,3 +9,4 @@ resultreport*.zip
 resultreport/report.html
 cvelistscanlenv/Lib/*
 local_config.py
+local.py

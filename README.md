@@ -13,6 +13,11 @@ So I made this simple project to relieve the tedium.
 ## Simple Diagram and Sequences
 - Diagram
 
+<p align="center">
+    <img src='./images/cve_scan_auto_diagram.png'>
+    <br>
+    
+</p>
 
 - Sequences
   - 1st. Keywords searching will be executed in the web site using pytest and selenium. If the keywords' search result are different compared to the last week result, the web page including the different result would be captured and inserted in the result.

@@ -15,5 +15,8 @@ So I made this simple project to relieve the tedium.
 
 
 - Sequences
-
+1st. Keywords searching will be executed in the web site using pytest and selenium. If the keywords' search result are different compared to the last week result, the web page including the different result would be captured and inserted in the result.
+2nd. If the keywords searching has finished well, a draft result file format:XML is going to be converted to HTML.
+3rd. The converted HTML format result file will be archived with a css file prepared in advance for visibility.
+4th. The archived file will be sent to the target e-mail address. (End)
 
